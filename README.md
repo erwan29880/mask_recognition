@@ -14,7 +14,8 @@ Le modèle est enregistré en fichier h5.
 ## Dans ce dossier il y a :
 
 |-- le fichier pour l'apprentissage du modèle d'IA     
-|-- le fichier pour l'application qui découle de l'apprentissage   
+|-- le fichier pour l'application webcam qui effectue la reconnaissance   
+|-- une deuxième application qui reconnaît en plus les visages   
 |-- un dossier d'images de validation       
 
 Les images d'apprentissage ne sont pas disponibles sur ce dépôt.  
