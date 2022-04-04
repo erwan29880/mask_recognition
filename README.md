@@ -19,5 +19,3 @@ Le modèle est enregistré en fichier h5.
 
 Les images d'apprentissage ne sont pas disponibles sur ce dépôt.  
 Le fichier du modèle est trop volumineux pour github.
-
-> Ce modèle d'IA est développé grâce au transfer learning (vgg16) et par la data augmentation.
